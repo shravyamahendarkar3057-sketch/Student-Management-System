@@ -15,7 +15,7 @@ elif average >= 70:
 elif average >= 60:
     grade = "C"
 else:
-    grade = "Fail"
+    grade = "Fail
 
 
 print("\n______ Result ______")
